@@ -26,4 +26,3 @@ No window is the wrong choice.
 Derek's 27 conflicting answers are put in gentile, concise words but are **packed** with philosophy, consciousness and meaning. He's like an elegant boxer, well-trained and efficient, throwing precise jabs at an opponent. The opponent being our anxious, doubtful or prejudiced minds, wondering if any of life's paths are the correct one.
 
 The weird conclusion is not weird at all. It's **the** answer. We're composers of a symphony. Conductors of an orchestra, made up of multiple instruments. Each with its own unique cadence, flavor, texture. Each instrument enters and exits the symphony at the time the composer and conductor demands.
-Write your post here.

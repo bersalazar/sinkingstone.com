@@ -8,20 +8,20 @@
     <language>en</language>
     <copyright>&amp;copy; 2023 &lt;a href=&#34;https://sinkingstone.com/&#34;&gt;sinking stone&lt;/a&gt;
 </copyright>
-    <lastBuildDate>Wed, 01 Nov 2023 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 21 Nov 2023 00:00:00 +0100</lastBuildDate>
     <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>blog</title>
+      <link>/categories/blog/</link>
+      <pubDate>Tue, 21 Nov 2023 00:00:00 +0100</pubDate>
+      <guid>/categories/blog/</guid>
+      <description></description>
+    </item>
     <item>
       <title>reviews</title>
       <link>/categories/reviews/</link>
       <pubDate>Wed, 01 Nov 2023 00:00:00 +0100</pubDate>
       <guid>/categories/reviews/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>blog</title>
-      <link>/categories/blog/</link>
-      <pubDate>Wed, 15 Mar 2023 00:00:00 +0100</pubDate>
-      <guid>/categories/blog/</guid>
       <description></description>
     </item>
   </channel>

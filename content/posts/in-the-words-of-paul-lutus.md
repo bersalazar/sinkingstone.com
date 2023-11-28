@@ -1,7 +1,12 @@
-.. title: In the words of Paul Lutus, the long-distance sailor
-.. slug: in-the-words-of-paul-lutus
-.. date: 2023-11-21 07:57:18 UTC+01:00
-.. category: blog
+---
+title: In the words of Paul Lutus, the long-distance sailor
+date: 2023-11-21
+categories:
+  - blog
+draft: false
+---
+
+![](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347309086i/7061814.jpg)
 
 > Sometimes when I was at home I would jump out of bed and try to figure out where I was.
 > I would look out the windows, see houses and trees and begin to panic.
@@ -20,5 +25,3 @@
 > Someone beyond the reach of the evening news.
 
 Source: https://arachnoid.com/lutusp/sailbook.html
-
-A highly recommended book about a round-the-world sailing journey.

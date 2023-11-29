@@ -7,7 +7,6 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; 2023 &lt;a href=&#34;https://sinkingstone.com/&#34;&gt;sinking stone&lt;/a&gt;
-</copyright>
-    <atom:link href="/authors/example-author/index.xml" rel="self" type="application/rss+xml" />
+</copyright><atom:link href="/authors/example-author/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

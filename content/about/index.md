@@ -1,43 +1,19 @@
 ---
-title: sinking stone
+title:
 draft: false
-avatar: images/icon.png
-bio: |
-    I'm Bernardo. In here I write about whatever excites me, mostly stuff I've read in books. I'm a software engineer and spare-time musician.
-    If you find anything of what's written here exciting and want to talk about it, email me!
-social:
-  - icon: envelope
-    iconPack: fas
-    url: mailto:sinkingstone44@gmail.com
-
 weight: 1
-widget:
-  handler: about
-
-  # Options: sm, md, lg and xl. Default is md.
-  width:
-
-  sidebar:
-    # Options: left and right. Leave blank to hide.
-    position:
-    # Options: sm, md, lg and xl. Default is md.
-    scale:
-
-  #background:
-  #  # Options: primary, secondary, tertiary or any valid color value. Default is primary.
-  #  color: secondary
-  #  image:
-  #  # Options: auto, cover and contain. Default is auto.
-  #  size:
-  #  # Options: center, top, right, bottom, left.
-  #  position:
-  #  # Options: fixed, local, scroll.
-  #  attachment:
 ---
+I'm Bernardo.
+
+In here, I write about whatever excites me, which is mostly ruminations of stuff I've read in books or seen in films.
+
+I'm a film enthusiast, a software engineer and spend my spare time [making music](https://open.spotify.com/artist/47PmsQNRB2v95ng41l0qM4?si=T200R1swRHSU0_0HBvt_Rg).
+
+If you find what's written here exciting and want to talk about it, [email me](mailto:sinkingstone44@gmail.com)!
 
 ## Favorite quotes:
 
-"You are what you pretend to be."
+"You are who you pretend to be."
 
 —**Kurt Vonnegut**
 

@@ -1,6 +1,6 @@
 ---
 title: Past performance is no guarantee future results
-date: 2022-07-09 08:12:56 UTC+02:00
+date: 2022-07-09
 categories:
   - blog
 draft: true

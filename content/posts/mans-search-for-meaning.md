@@ -1,6 +1,6 @@
 ---
 title: Man's Search For Meaning - by Viktor E. Frankl
-date: 2020-11-8
+date: 2020-11-08
 categories:
   - reviews
 draft: false

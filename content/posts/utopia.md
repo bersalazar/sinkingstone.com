@@ -4,11 +4,14 @@ date: 2023-06-08
 categories:
   - reviews
 draft: false
+showReadMore: true
 ---
 
 Utopia is an idealistic book. A description of a society abiding by a set of rules that promote collectivism over individualism.
 
 By organizing a group of individuals into an emergent entity, the entity thrives over others and perpetuates itself across time, in a generalized state of well-being.
+
+<!--more-->
 
 The rules trump basic instincts of survival which align with individualism.
 

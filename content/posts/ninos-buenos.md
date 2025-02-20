@@ -4,6 +4,7 @@ date: 2023-11-01
 categories:
   - reviews
 draft: false
+showReadMore: true
 ---
 
 Conozco de la Segunda Guerra Mundial en su mayoría gracias a producciones de Hollywood.
@@ -18,6 +19,8 @@ Tomás es mi gran amigo de muchos años.
 Lector voraz y fanático de la historia, en especial si tiende a la geopolítica.
 Hablar con él es abrir una enciclopedia de hechos históricos, que sólo pueden llegar a su memoria cuando algo realmente nos apasiona.
 De esas pasiones que son únicas de cada quien y que a veces pasan desapercibidas.
+
+<!--more-->
 
 Desde que lo conozco, siempre ha tenido fascinación por la cultura alemana y, desde siempre, me ha hablado de su ex-jefe en Caracas, un ex-miembro de las Juventudes Hitlerianas durante la guerra.
 

@@ -1,35 +1,32 @@
 ---
-title:
+title: About me
 draft: false
 weight: 1
+hideDate: true
 ---
 I'm Bernardo.
 
-In here, I write about whatever excites me, which is mostly ruminations of stuff I've read in books or seen in films.
+I write about whatever excites me, which is mostly ruminations of stuff I've read in books or seen in films.
 
-I'm a film enthusiast, a software engineer and spend my spare time [making music](https://open.spotify.com/artist/47PmsQNRB2v95ng41l0qM4?si=T200R1swRHSU0_0HBvt_Rg).
+I'm a software engineer, [film enthusiast](https://letterboxd.com/sinkingstone) and spare-time [music maker](https://open.spotify.com/artist/47PmsQNRB2v95ng41l0qM4?si=T200R1swRHSU0_0HBvt_Rg).
 
 If you find what's written here exciting and want to talk about it, [email me](mailto:sinkingstone44@gmail.com)!
 
-## Favorite quotes:
+---
 
-"You are who you pretend to be."
+# Favorite quotes:
+
+"We are what we pretend to be."
 
 —**Kurt Vonnegut**
+
+"Another person's head is a wretched place to be the home of one's true happiness."
+
+—**Arthur Schopenhauer**
 
 "Music is spiritual. The music business is not."
 
 —**Van Morrison**
-
-"Another person's head is a wretched place to be the home of a one's true happiness."
-
-—**Arthur Schopenhauer**
-
-"Fortune inflicts harm with the moral blindness of a hurricane."
-
-"Enduring loneliness is invariably better than suffering the compromises of false community."
-
-—**Alain de Botton**
 
 "I asked God for a bike, but I know God doesn't work that way. So I stole a bike and asked for forgiveness."
 
@@ -55,6 +52,12 @@ If you find what's written here exciting and want to talk about it, [email me](m
 
 —**Victor E. Frankl**
 
+"Fortune inflicts harm with the moral blindness of a hurricane."
+
+"Enduring loneliness is invariably better than suffering the compromises of false community."
+
+—**Alain de Botton**
+
 "I am my remembering self, and the experiencing self, who does my living, is like a stranger to me."
 
 --**Daniel Kahneman**
@@ -65,6 +68,12 @@ If you find what's written here exciting and want to talk about it, [email me](m
 
 --**Paul Lutus**
 
+"Taking drugs while depressed is like putting a coat when it rains."
+
+"We are meat bags of salt water, lipids, proteins and chemicals, that emerged from endoplasmic sewage, and are now capable of having an experience."
+
+--**Unknown**
+
 "Saruman believes it is only great power that can hold evil in check, but that is not what I have found.
 I found it is the small everyday deeds of ordinary folk that keep the darkness at bay.
 Small acts of kindness and love.
@@ -72,12 +81,6 @@ Why Bilbo Baggins? I don't know.
 Perhaps because I am afraid, and he gives me courage."
 
 --**Gandalf, a character by J.R.R. Tokien**
-
-"Taking drugs while depressed is like putting a coat when it rains."
-
-"We are meat bags of salt water, lipids, proteins and chemicals, that emerged from endoplasmic sewage, and are now capable of having an experience."
-
---**Unknown**
 
 "When you throw a stone into the water, it hurries by the swiftest possible path to the bottom.
 It is like this when Siddhartha has a goal, a resolve. He does nothing — he waits, he thinks, he fasts — but he passes through the things of this world _like a stone through water_, without doing anything, without moving; he is drawn and lets himself fall [...].

@@ -1,8 +1,8 @@
 ---
-title: In the words of Paul Lutus, the long-distance sailor
+title: In the words of the long-distance sailor
 date: 2023-11-21
 categories:
-  - blog
+  - journal
 draft: false
 hideReadMore: true
 ---

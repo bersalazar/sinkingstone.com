@@ -2,7 +2,7 @@
 title: Collateral
 date: 2021-03-22
 categories:
-  - blog
+  - journal
 draft: false
 ---
 

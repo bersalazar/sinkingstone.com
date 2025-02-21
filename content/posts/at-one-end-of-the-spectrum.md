@@ -2,7 +2,7 @@
 title: At one end of the spectrum
 date: 2020-10-07
 categories:
-  - blog
+  - journal
 draft: false
 ---
 

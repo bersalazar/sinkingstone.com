@@ -8,9 +8,12 @@ draft: false
 
 ![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403165375l/18077875.jpg)
 
-Essentialism, or how to discern the vital few from the trivial many. This book is a worthy guide to choosing the right actions, removing obstacles and making execution effortless. In a wider context of books about de-cluttering our life and finding the core intent of living a fulfilling life, this one has served me as a true compilation of the bigger message.
+Essentialism, or how to discern the vital few from the trivial many.
+This book is a worthy guide to choosing the right actions, removing obstacles and making execution effortless.
+In a wider context of books about de-cluttering our life and finding the core intent of living a fulfilling life, this one has served me as a true compilation of the bigger message.
 
-It's practical, full of quotes from other works and real-life situations where either a problem or a solution via essentialism is applied. It feels like a light read —because it's so well redacted and edited— but it has a depth and very relatable sense to it.
+It's practical, full of quotes from other works and real-life situations where either a problem or a solution via essentialism is applied.
+It feels like a light read —because it's so well redacted and edited— but it has a depth and very relatable sense to it.
 
 Some of my key takeaways:
 

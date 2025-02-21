@@ -2,7 +2,7 @@
 title: Vessel
 date: 2021-07-04
 categories:
-  - blog
+  - journal
 draft: false
 ---
 

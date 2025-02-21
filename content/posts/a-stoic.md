@@ -2,7 +2,7 @@
 title: A stoic
 date: 2020-07-14
 categories:
-  - blog
+  - journal
 draft: true
 ---
 

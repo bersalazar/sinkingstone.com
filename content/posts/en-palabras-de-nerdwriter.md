@@ -2,7 +2,7 @@
 title: En palabras de Nerdwriter
 date: 2022-10-12
 categories:
-  - blog
+  - journal
 draft: false
 ---
 

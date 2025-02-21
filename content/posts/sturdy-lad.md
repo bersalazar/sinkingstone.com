@@ -2,7 +2,7 @@
 title: Sturdy Lad
 date: 2023-03-15
 categories:
-  - blog
+  - journal
 draft: false
 ---
 

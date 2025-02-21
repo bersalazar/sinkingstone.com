@@ -2,7 +2,7 @@
 title: A trembling animal
 date: 2022-07-10
 categories:
-  - blog
+  - journal
 draft: true
 ---
 

@@ -8,7 +8,7 @@ draft: false
 
 ![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1549433350l/40672036._SY475_.jpg)
 
-"Humans are not wired to be consistently wired"
+> Humans are not wired to be consistently wired.
 
 An easy read for those interested in habits of de-cluttering our life and efficiently using modern tools, and an eye-opening read for those unaware of how much attention is stolen by digital entertainment,
 social media and mobile technology.

@@ -1,10 +1,13 @@
 main:
-  - name: posts
-    url: '/posts/'
+  - name: journal
+    url: /categories/blog/
     weight: 1
   - name: reviews
     url: /categories/reviews/
     weight: 2
+  - name: all
+    url: /posts/
+    weight: 3
   - name: about
     url: '/about'
-    weight: 3
+    weight: 4

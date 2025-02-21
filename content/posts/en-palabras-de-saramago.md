@@ -2,7 +2,7 @@
 title: En palabras de Saramago
 date: 2022-10-10
 categories:
-  - blog
+  - journal
 draft: false
 ---
 

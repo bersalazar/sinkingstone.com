@@ -2,7 +2,7 @@
 title: An ignored burden
 date: 2022-01-28
 categories:
-  - blog
+  - journal
 draft: false
 ---
 

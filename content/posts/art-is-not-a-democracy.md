@@ -2,7 +2,7 @@
 title: Art is not a democracy
 date: 2020-10-16
 categories:
-  - blog
+  - journal
 draft: false
 ---
 

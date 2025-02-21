@@ -2,7 +2,7 @@
 title: Skull-sized kingdom
 date: 2022-01-05
 categories:
-  - blog
+  - journal
 draft: false
 ---
 

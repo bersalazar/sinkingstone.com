@@ -2,17 +2,17 @@
 title: Past performance is no guarantee future results
 date: 2022-07-09
 categories:
-  - blog
+  - journal
 draft: true
 ---
 
-It's a core tenet of investing.
+A tenet of investment.
 
 It should be engrained in anyone entering the game of equities and trading.
 
-It's any broker's safeword when entering business with customers.
+Any broker's safety phrase when luring naive customers.
 
-It's the small letter in any index fund's KIID.
+The small letter in a managed fund's conditions.
 
 ---
 

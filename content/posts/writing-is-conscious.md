@@ -2,7 +2,7 @@
 title: Writing is conscious
 date: 2022-07-10
 categories:
-  - blog
+  - journal
 draft: false
 ---
 

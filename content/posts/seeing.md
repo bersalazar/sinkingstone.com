@@ -8,7 +8,8 @@ draft: false
 
 ![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442258675l/47667._SY475_.jpg)
 
-Saramago's style is not conventional but it's illuminating. It made me understand that blocks of dialogue, chapter titles, character names and even usual punctuation rules aren't requirement to convey a thrilling and smooth narrative.
+Saramago's style unconventional but it's illuminating. 
+It made me understand that blocks of dialogue, chapter titles, character names and even usual punctuation rules aren't requirement to convey a thrilling and smooth narrative.
 
 The first part details the unusual way in which a town organically comes together to put its government and democractic system on the tip of its toes, in the least conventional but evident: through vote.
 

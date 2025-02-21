@@ -22,4 +22,4 @@ He found the worthy memories on the smallest flashes of happiness like, on his e
 
 A quote that promptly can be used to summarize his reflections on his life:
 
-"It is as if I had been going downhill while I imagined I was going up. And that is really what it was. I was going up in public opinion, but to the same extent life was ebbing away from me. And now it is all done and there is only death."
+> It is as if I had been going downhill while I imagined I was going up. And that is really what it was. I was going up in public opinion, but to the same extent life was ebbing away from me. And now it is all done and there is only death.

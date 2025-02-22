@@ -6,11 +6,13 @@ categories:
 draft: false
 ---
 
-This book is about realizing metaphors as fundamental to perception of the world around us.
-Like seeing, hearing or tasting, they allow us to understand the truth of our experiences, whether "external" (as in, the physical realm) or "internal" (ideas, thoughts and feelings).
-They're a representation of the experiences we live: past, present or potential.
-They're information in packages.
-The combination of both learned language and metaphors, aside from providing perception, drive a lot of our actions.
+A book about realizing metaphors as fundamental to our perception of the world around us.
+
+Like seeing, hearing or tasting, they enable understanding the truth of our experiences, whether "external" (as in, the physical realm) or "internal" (ideas, thoughts and feelings).
+A representation of the experiences we live: past, present or potential.
+Information in packages.
+
+The combination of both learned language and metaphors, aside from providing perception, drive many of our actions.
 
 The deeper this book goes into defining, decomposing and categorizing metaphors, the more it mingles in philosophy.
 Our own personal philosophy is defined by a heavy use of metaphors. This likely happens unconsciously for most.

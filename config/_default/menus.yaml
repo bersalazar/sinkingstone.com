@@ -1,6 +1,6 @@
 main:
   - name: journal
-    url: /categories/blog/
+    url: /categories/journal/
     weight: 1
   - name: reviews
     url: /categories/reviews/

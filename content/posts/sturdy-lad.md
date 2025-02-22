@@ -6,7 +6,7 @@ categories:
 draft: false
 ---
 
-This is an extract from Emerson's Self-Reliance:
+An extract from Emerson's Self-Reliance:
 
 > If our young men miscarry in their first enterprises, they lose all heart.
 > If the young merchant fails, men say he is ruined.

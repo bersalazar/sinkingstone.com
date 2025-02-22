@@ -4,6 +4,7 @@ draft: false
 weight: 1
 hideDate: true
 ---
+
 I'm Bernardo.
 
 I write about whatever excites me, which is mostly ruminations of stuff I've read in books or seen in films.

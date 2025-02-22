@@ -1,5 +1,5 @@
 ---
-title: In the words of the long-distance sailor
+title: In words of the long-distance sailor
 date: 2023-11-21
 categories:
   - journal
@@ -23,4 +23,4 @@ hideReadMore: true
 > And I would walk down the hill with the fine touch of a natural person, someone who belongs to the earth, to the sea.
 > Someone beyond the reach of the evening news.
 
-Source: https://arachnoid.com/lutusp/sailbook.html
+_From [Confessions of a Long-Distance Sailor](https://arachnoid.com/lutusp/sailbook.html), by Paul Lutus_

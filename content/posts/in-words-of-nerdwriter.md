@@ -1,5 +1,5 @@
 ---
-title: En palabras de Nerdwriter
+title: In words of the Nerdwriter
 date: 2022-10-12
 categories:
   - journal
@@ -16,4 +16,4 @@ but what about when the movie ends, that ritual of slowly getting up, emerging i
 "So what did you think?"
 The conversation that follows, in the car rider home or over drinks at a bar, is what makes the passive viewing experience active.
 
-_from Escape Into Meaning, by Evan Puschak_
+_from [Escape Into Meaning](https://www.goodreads.com/book/show/59366170-escape-into-meaning), by Evan Puschak_

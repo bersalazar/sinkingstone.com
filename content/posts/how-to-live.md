@@ -10,4 +10,5 @@ draft: false
 
 Derek Sivers provides 27 conflicting answers put in gentile, concise words but are packed with philosophy, consciousness and meaning.
 
-His words function as an elegant boxer, well-trained and efficient, throwing precise jabs at an opponent. The opponent being our anxious, doubtful or prejudiced thoughts, wondering if any of life's paths are the correct one.
+His words function as an elegant boxer, well-trained and efficient, throwing precise jabs at an opponent.
+The opponent being our anxious, doubtful or prejudiced thoughts, wondering if any of life's paths are the correct one.

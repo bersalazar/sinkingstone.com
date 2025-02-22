@@ -16,6 +16,9 @@ Knowing how to bridge the gap between beginner and expert is a skill of its own.
 Watching professionals at work is enough for entertainment but should be considered with care as a resource for learning.
 If so, it can be easy to fall quickly into frustration due to the relatively slow learning and skill-acquiring process.
 
-At this stage in my rock climbing journey, I get pretty much the same experience and learning than non-climbers from watching an Adam Ondra video sending Silence or Alex Honnold's free soloing El Capitan. They're such highly technical climbs and the mental challenge so large, that it's hard for me to take notice of something practical that would make me improve. That's where guys like Oswaldo come in. They provide the substance that lowers the barrier of entry for amateurs and enthusiasts like me, who do this as a non-professional activity.
+At this stage in my rock climbing journey, I get pretty much the same experience and learning than non-climbers from watching an Adam Ondra video sending Silence or Alex Honnold's free soloing El Capitan.
+They're such highly technical climbs and the mental challenge so large, that it's hard for me to take notice of something practical that would make me improve.
+That's where guys like Oswaldo come in.
+They provide the substance that lowers the barrier of entry for amateurs and enthusiasts like me, who do this as a non-professional activity.
 
 The Crux pours even more magic into bridging the skills gap as it also covers mental and philosophical aspects inherent to rock climbing and nicely relates to other aspects of life itself.

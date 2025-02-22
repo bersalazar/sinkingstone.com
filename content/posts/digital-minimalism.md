@@ -10,11 +10,13 @@ draft: false
 
 > Humans are not wired to be consistently wired.
 
-An easy read for those interested in habits of de-cluttering our life and efficiently using modern tools, and an eye-opening read for those unaware of how much attention is stolen by digital entertainment,
-social media and mobile technology.
+An easy read for those interested in habits of de-cluttering our life and efficiently using modern tools, and an eye-opening read for those unaware of how much attention is stolen by digital entertainment, social media and mobile technology.
 
-It reminisces of social and personal behaviors from before the modern smartphone era, and its benefits. It doesn't promote a complete divorce from technology, instead it strongly argues for a more efficient use while providing insights and practical options to achieve it.
+It reminisces of social and personal behaviors from before the modern smartphone era, and its benefits.
+It doesn't promote a complete divorce from technology, instead it strongly argues for a more efficient use while providing insights and practical options to achieve it.
 
 Some of the more relevant subjects: solitude as a form of liberation, the value of "high-quality leisure", the difference in value between non-digital, real life conversations and digital connections, or how the author refers to them, high and low-bandwith communication.
 
-Time is unconsciously taken for granted. It's the most valuable commodity we own and the one thing tech giants are eager to take from us. As these tools are more and more invasive of our day-to-day and designed towards attracting our eyeballs, it becomes harder to develop habits for more focused, fulfilled minds and more valuable interactions.
+Time is unconsciously taken for granted.
+It's the most valuable commodity we own and the one thing tech giants are eager to take from us.
+As these tools are more and more invasive of our day-to-day and designed towards attracting our eyeballs, it becomes harder to develop habits for more focused, fulfilled minds and more valuable interactions.

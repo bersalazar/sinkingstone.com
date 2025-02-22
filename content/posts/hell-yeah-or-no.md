@@ -8,4 +8,6 @@ draft: false
 
 ![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1594784873l/52523856._SX318_.jpg)
 
-Like his other recent book 'Your Music and People', it's a compilation of Derek's journal posts loosely related to the book's title. Very inspiring droplets, with each chapter standing on its own. Works very well for picking up sporadically, re-reading one or a few from time to time and getting a boost from quick, exciting and potentially life-changing lessons.
+Like his other recent book 'Your Music and People', it's a compilation of Derek's journal posts loosely related to the book's title.
+Very inspiring droplets, with each chapter standing on its own.
+Works very well for picking up sporadically, re-reading one or a few from time to time and getting a boost from quick, exciting and potentially life-changing lessons.

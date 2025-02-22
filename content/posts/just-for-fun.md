@@ -16,4 +16,5 @@ The success of Linux is just a side effect of him trying to fix holes in the roa
 
 And what for me is the major side effect of his way of thinking in practice: the rise of open source.
 
-Fun story, although it reaches his history to around 2000's. It would be great to have his continuation of the more recent decade, with the prominence of his other major creation: Git.
+Fun story, although it reaches his history to around 2000's.
+It would be great to have his continuation of the more recent decade, with the prominence of his other major creation: Git.

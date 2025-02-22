@@ -18,11 +18,15 @@ It's a culture where visible busyness is valued as productivity, and it's due to
 
 We're biased to social media and instant messaging as tools where it's a given, where it's normal, that they should receive our constant attention.
 
-What we end up with is a lack of depth in the work we do. We focus on the shallow ends of work, such as reading and instantly replying to email and messages, making a habit in our minds to be "always available" for an interruption of a flow state.
+What we end up with is a lack of depth in the work we do.
+We focus on the shallow ends of work, such as reading and instantly replying to email and messages, making a habit in our minds to be "always available" for an interruption of a flow state.
 
-It makes a strong case towards the usefulness and true nature of “leisure” time. When not sleeping and when not focused on a task, our mind doesn’t seek “rest” or what we understand as relaxation like watching TV or scrolling through social media. What our minds are constantly seeking is fulfillment, which can be achieved with well-structured and meaningful leisure time.
+It makes a strong case towards the usefulness and true nature of “leisure” time.
+When not sleeping and when not focused on a task, our mind doesn’t seek “rest” or what we understand as relaxation like watching TV or scrolling through social media.
+What our minds are constantly seeking is fulfillment, which can be achieved with well-structured and meaningful leisure time.
 
-One of the sections I enjoyed the most talks about approaching our jobs and careers with a "craftsman" philosophy. Historically, to "follow your passion" is motivated by the flawed idea that what matters most for our careers is the specifics of the job we choose, where in reality, the meaning uncovered by day to day efforts on any job or career comes building and applying the skills required for it (hopefully into mastery) and doesn't consider the end-goal or the outcome as the source of satisfaction.
+One of the sections I enjoyed the most talks about approaching our jobs and careers with a "craftsman" philosophy.
+Historically, to "follow your passion" is motivated by the flawed idea that what matters most for our careers is the specifics of the job we choose, where in reality, the meaning uncovered by day to day efforts on any job or career comes building and applying the skills required for it (hopefully into mastery) and doesn't consider the end-goal or the outcome as the source of satisfaction.
 
 "A wooden wheel is not noble, but its shaping can be."
 

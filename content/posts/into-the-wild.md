@@ -10,7 +10,8 @@ draft: false
 
 I’m in the neutral camp when having an opinion about this story and its tragic end.
 
-I do believe Chris was egotistic and reckless. But I also agree there’s much to learn from his philosophy and his search for truth.
+I do believe Chris was egotistic and reckless.
+But I also agree there’s much to learn from his philosophy and his search for truth.
 
 As a fan of Tolstoy myself, I found gratifying to read about someone living and applying his own flavor of Tolstoy’s message.
 
@@ -18,7 +19,8 @@ I also believe Chris was smart enough to know what the risks were at all times, 
 
 I like the conclusion that, at the very end, he came into terms with the inner beast that drove him.
 
-He had tested and proven himself, and was ready to come back from wandering in anonymity, possibly (and hopefully) to come to terms with his family. Sadly, the wild tundra was underestimated.
+He had tested and proven himself, and was ready to come back from wandering in anonymity, possibly (and hopefully) to come to terms with his family.
+Sadly, the wild tundra was underestimated.
 
 Life’s big challenges are defined personally, they vary vastly from person to person, and the goals can only be met by our very own standards.
 

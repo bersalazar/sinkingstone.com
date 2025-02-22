@@ -10,7 +10,7 @@ draft: false
 
 There are no evil characters is Tolstoy's short stories, only actions (or lack there of) that leads them in the wrongful paths.
 
-Most of the stories set up scenarios where, through compassion, care for others and selflessness, people achieve true happiness, or, in Tolstoy's eyes, "they find God"
+Most of the stories set up scenarios where, through compassion, care for others and selflessness, people achieve true happiness, or, in Tolstoy's eyes, "they find God".
 
 From my point of view this means finding joy and fulfillment.
 

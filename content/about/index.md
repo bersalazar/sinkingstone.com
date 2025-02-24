@@ -9,7 +9,7 @@ I'm Bernardo.
 
 I write about whatever excites me, which is mostly ruminations of stuff I've read in books or seen in films.
 
-I'm a software engineer, [film enthusiast](https://letterboxd.com/sinkingstone) and spare-time [music maker](https://linktr.ee/berniroco)
+I'm a software engineer, [film enthusiast](https://letterboxd.com/sinkingstone), [rock climber](https://thecrag.com/climber/bersalazar) and spare-time [music maker](https://linktr.ee/berniroco)
 
 If you find what's written here exciting and want to talk about it, [email me](mailto:sinkingstone44@gmail.com)!
 

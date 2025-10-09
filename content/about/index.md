@@ -5,13 +5,14 @@ weight: 1
 hideDate: true
 ---
 
-I'm Bernardo.
+I am Bernardo.
 
-I write about whatever excites me, which is mostly ruminations of stuff I've read in books or seen in films.
+I write about whatever excites me, which is mostly ruminations of stuff I've read in books, seen in films or simply experienced.
 
-I'm a software engineer, [film enthusiast](https://letterboxd.com/sinkingstone), [rock climber](https://thecrag.com/climber/bersalazar) and spare-time [music maker](https://linktr.ee/berniroco).
+I'm a [software engineer](https://salazr.dev), a [film enthusiast](https://letterboxd.com/sinkingstone) and spare-time [music maker](https://linktr.ee/berniroco).
+I also like [books](https://www.goodreads.com/user/show/8994743-bernardo). 
 
-If you find what's written here exciting and want to talk about it, [email me](mailto:sinkingstone44@gmail.com)!
+If you find what's written here exciting and want to talk about it, [email me](mailto:sinkingstone44@gmail.com).
 
 ---
 

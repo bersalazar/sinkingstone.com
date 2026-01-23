@@ -1,6 +1,6 @@
 ---
 title: A trembling animal
-date: 2022-07-10
+date: 2026-01-23
 categories:
   - journal
 draft: true
@@ -9,17 +9,20 @@ draft: true
 What is something that's real and would terrify any human?
 
 The fact the universe exists and is absolutely indifferent to our existence.
-
 The fact it's under no obligation to make sense to us.
 
 > A person's character is a defense against despair.
 
-We follow social rules to cope with the overwhelmingly terrifying __real__ nature of the world.
+We exist within social rules to cope with the overwhelmingly terrifying __real__ nature of the world.
 
-It not only occurs in a subconscious, instinctive level, it also occurs at a cultural level.
+It not only occurs on a subconscious, instinctive level, it also occurs at a cultural level.
+Religions, ideologies, tribes.
+They're the shield against the awareness of reality.
+The reality of the universe's indifference.
 
-Religions, ideologies, tribes. They're the shield against the awareness of reality.
+Humans, as individuals, are not biologically equipped to deal with this immensity.
 
-Actual reality.
+> ...it places a trembling animal at the mercy of the entire cosmos and the problem of the meaning of it. 
 
-The dangers of not having this shield "places a trembling animal at the mercy of the entire cosmos and the problem of the meaning of it."
+Let's embrace sociocultural systems. Even if we feel capable of finding answers, let's not shrug off their utility.
+They provide a home for angsty, inquisitive brains.

@@ -1,28 +1,33 @@
 ---
 title: A trembling animal
-date: 2026-01-23
+date: 2026-01-24
 categories:
   - journal
-draft: true
+draft: false
 ---
 
 What is something that's real and would terrify any human?
 
-The fact the universe exists and is absolutely indifferent to our existence.
+The fact the universe is absolutely indifferent to our existence.
 The fact it's under no obligation to make sense to us.
 
-> A person's character is a defense against despair.
+An image of the Sun, seen from the perspective of Neptune, reveals despair: just another star in the vastness of space.
 
-We exist within social rules to cope with the overwhelmingly terrifying __real__ nature of the world.
+What's left for the pale blue dot and its inhabitants?
 
-It not only occurs on a subconscious, instinctive level, it also occurs at a cultural level.
-Religions, ideologies, tribes.
-They're the shield against the awareness of reality.
-The reality of the universe's indifference.
+Vastness and indifference place "a trembling animal at the mercy of the entire cosmos and the problem of the meaning of it"[^1]. 
+It's here where a person's character is the greatest defense against despair.
 
-Humans, as individuals, are not biologically equipped to deal with this immensity.
+Cultural norms help coping with the overwhelmingly terrifying, __real__ nature of the world:
+it's forever attempting to starve and/or freeze us to death with its indifference.
 
-> ...it places a trembling animal at the mercy of the entire cosmos and the problem of the meaning of it. 
+Religion, ideology, endemic rites.
+These norms, mostly ingrained subconsciosuly and instinctively within us, help building character.
+That shield against an individual's awareness of the terrifying reality.
 
-Let's embrace sociocultural systems. Even if we feel capable of finding answers, let's not shrug off their utility.
-They provide a home for angsty, inquisitive brains.
+Let's embrace sociocultural systems. 
+Even if we feel capable of finding answers, let's not shrug off their utility.
+
+They provide a cozy home for our angsty, inquisitive brains.
+
+[^1]: Ernst Becker in The Denial of Death

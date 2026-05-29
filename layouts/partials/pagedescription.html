@@ -1,11 +1,4 @@
 <div class="description">
-	{{ if isset .Params "description" }}
-	{{ .Description }}
-	{{ else }}
-	{{ .Summary }}
-	{{ end }}
+	{{ with .Description }}{{ . }}{{ else }}{{ .Summary }}{{ end }}
 </div>
-{{ if .Params.showReadMore }}
-<a class="readmore" href="{{ .RelPermalink }}">Read more ⟶</a>
-{{ end }}
 <hr class="solid">

@@ -1,13 +1,5 @@
-# Code Highlight
-# pygmentsstyle = "monokai"
-# pygmentscodefences = true
-# pygmentscodefencesguesssyntax = true
-
 baseURL = "https://sinkingstone.com"
 title = "sinking stone"
-author = "Bernardo Salazar"
-
-theme = "archie"
 summaryLength = 2000
 
 languageCode = "en"
@@ -15,17 +7,8 @@ defaultContentLanguage = "en"
 hasCJKLanguage = false # Set `true` for Chinese/Japanese/Korean.
 defaultContentLanguageInSubdir = false
 
-# Uncomment for google analytics
-# googleAnalytics = UA-123-45
-
-# needed to  render raw HTML (e.g. <sub>, <sup>, <kbd>, <mark>)
+# needed to render raw HTML (e.g. <sub>, <sup>, <kbd>, <mark>)
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
-
-[services]
-  [services.instagram]
-    disableInlineCSS = true
-  [services.twitter]
-    disableInlineCSS = true

@@ -22,7 +22,7 @@ So everything written here comes from my own fingers typing on a keyboard.
 I embrace typos and grammar mistakes, re-visit and edit with fury.
 
 I truly enjoy deep-dive, insightful conversations, learning about what others think (specially on topics I have major interest in), witnessing people processing thoughts and opinions openly, and trying to make sense of things.
-So if you find anything of what's written here exciting or curious and want to talk about it, [email me](mailto:sinkingstone44@gmail.com).
+So if you find anything of what's written here exciting or curious and want to talk about it, [email me](mailto:hola@sinkingstone.com).
 
 ---
 

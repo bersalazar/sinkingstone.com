@@ -5,14 +5,24 @@ weight: 1
 hideDate: true
 ---
 
-I am Bernardo.
+I'm Bernardo.
 
-I write about whatever excites me, which is mostly ruminations of stuff I've read in books, seen in films or simply experienced.
+In this site I write about whatever excites me (or how my british friend once put it and made me laugh: "whatever tickles my fancy").
+
+You'll find mostly ruminations of stuff I've read in books, seen in films or simply experienced.
+
+Even though I'm a native spanish speaker, I spend a high percentage of my day communicating and thinking in english.
+So I write in either.
 
 I'm a [software engineer](https://salazr.dev), a [film enthusiast](https://letterboxd.com/sinkingstone) and spare-time [music maker](https://linktr.ee/berniroco).
-I also like [books](https://www.goodreads.com/user/show/8994743-bernardo). 
+I also enjoy [books](https://www.goodreads.com/user/show/8994743-bernardo).
 
-If you find what's written here exciting and want to talk about it, [email me](mailto:sinkingstone44@gmail.com).
+I've never used writing assistance tools, neither AI, grammarly or similar and I've stopped using automated grammar and spelling correction long ago.
+So everything written here comes from my own fingers typing on a keyboard.
+I embrace typos and grammar mistakes, re-visit and edit with fury.
+
+I truly enjoy deep-dive, insightful conversations, learning about what others think (specially on topics I have major interest in), witnessing people processing thoughts and opinions openly, and trying to make sense of things.
+So if you find anything of what's written here exciting or curious and want to talk about it, [email me](mailto:sinkingstone44@gmail.com).
 
 ---
 
@@ -26,6 +36,10 @@ If you find what's written here exciting and want to talk about it, [email me](m
 
 —**Arthur Schopenhauer**
 
+"Extraordinary claims require extraordinary evidence."
+
+—**Carl Sagan**
+
 "Music is spiritual. The music business is not."
 
 —**Van Morrison**
@@ -37,10 +51,6 @@ If you find what's written here exciting and want to talk about it, [email me](m
 "Writing is human, editing is divine."
 
 —**Stephen King**
-
-"Extraordinary claims require extraordinary evidence."
-
-—**Carl Sagan**
 
 "The art of living is more like wrestling than dancing."
 
